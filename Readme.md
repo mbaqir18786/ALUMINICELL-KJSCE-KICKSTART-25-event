@@ -46,9 +46,9 @@ This website is built using **HTML** and **CSS** and provides event details, reg
 
 ## Contact
 
-- Instagram: [@kjsce_alumni_cell](https://www.instagram.com/kjsce_alumni_cell/)
-- LinkedIn: [KJSCE Alumni Cell](https://www.linkedin.com/company/kjsce-alumni-cell/)
-- Facebook: [KJSCE Alumni Cell](https://www.facebook.com/kjscealumnicell)
+- Instagram: [@kjsce_alumni_cell](https://www.instagram.com/alumnicell_kjsce?utm_source=ig_web_button_share_sheet&igsh=eHU0OXUwa2w0Nm8w)
+- LinkedIn: [KJSCE Alumni Cell](https://www.linkedin.com/company/alumnicell-kjsce/)
+- Facebook: [KJSCE Alumni Cell](https://www.facebook.com/alumnicell.kjsce/)
 
 ---
 
